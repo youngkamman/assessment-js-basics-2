@@ -1,0 +1,10 @@
+Facebook: uses 16 different programs including react,php,graphQl,Memcached,cassandra,Flux,Presto,Tornado,Hack,relay Framework,RocksDb,Yoga,Prepack,mcrouter,Beringei,Hydra Framework
+
+
+Rockstar games: uses Apache HTTP Server, Amazon CloudFront,rage engine
+
+Darpa: uses jQuery,jQuery ui, ASp.net
+
+
+
+
